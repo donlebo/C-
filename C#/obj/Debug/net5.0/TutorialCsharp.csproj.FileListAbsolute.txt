@@ -1,0 +1,15 @@
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.csprojAssemblyReference.cache
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.AssemblyInfoInputs.cache
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.AssemblyInfo.cs
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.csproj.CoreCompileInputs.cache
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/TutorialCsharp.deps.json
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/TutorialCsharp.runtimeconfig.json
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/TutorialCsharp.runtimeconfig.dev.json
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/TutorialCsharp.dll
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/ref/TutorialCsharp.dll
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/bin/Debug/net5.0/TutorialCsharp.pdb
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.dll
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/ref/TutorialCsharp.dll
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.pdb
+/Users/donato/Desktop/Programmi #C/TutorialCsharp/TutorialCsharp/obj/Debug/net5.0/TutorialCsharp.genruntimeconfig.cache
